@@ -14,6 +14,11 @@ const config: Config = {
                 "gradient-conic":
                     "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
             },
+            colors: {
+                'biru': "#0085FF",
+                'ijo': "#00A424",
+                'pink': "#EB2891",
+            }
         },
     },
     plugins: [],

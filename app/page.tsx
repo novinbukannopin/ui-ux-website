@@ -1,10 +1,15 @@
-import {Hero, Navbar} from "@/components";
+import {CTA, FAQ, Features, Footer, Hero, Navbar, Plans} from "@/components";
 
 export default function Home() {
     return (
-        <main className="">
+        <main>
             <Navbar/>
             <Hero/>
+            <Features/>
+            <FAQ/>
+            <Plans/>
+            <CTA/>
+            <Footer/>
         </main>
     );
 }

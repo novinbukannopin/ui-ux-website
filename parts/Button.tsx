@@ -1,12 +1,7 @@
 import clsx from 'clsx';
 import Image from "next/image";
 import BlurArrow from "../public/assets/blue-button.svg";
-
-interface ButtonProps {
-    className?: string;
-    variant?: "primary" | "secondary" | "tertiary";
-    title?: string;
-}
+import {ButtonProps} from "@/types";
 
 const Button = ({className, variant, title}: ButtonProps) => {
     const buttonClasses = clsx(
