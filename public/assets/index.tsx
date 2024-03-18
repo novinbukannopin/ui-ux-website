@@ -17,9 +17,10 @@ import X from "../assets/X.svg";
 import Facebook from "../assets/Facebook.svg";
 import Feed from "../assets/Feed.svg";
 import Gradients from "../assets/gradient.png"
+import CheckWhite from "../assets/checkwhite.svg";
 
 export {
-    BlurArrow,
+    BlurArrow, CheckWhite,
     Gradient,
     HeroImage,
     Google, Gradients,

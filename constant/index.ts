@@ -76,3 +76,39 @@ export const FOOTER = [
         ]
     }
 ]
+
+export const PLANS = [
+    {
+        title: "Free Trial",
+        description: "Perfect for testing the waters",
+        price: "$0",
+        benefits: [
+            "Unlimited Access",
+            "Unlimited Bandwidth",
+            "24/7 Support"
+        ]
+    },
+    {
+        title: "Business",
+        description: "Perfect for small businesses",
+        price: "$500",
+        benefits: [
+            "Unlimited Access",
+            "Unlimited Bandwidth",
+            "24/7 Support",
+            "Custom Domain"
+        ]
+    },
+    {
+        title: "Enterprise",
+        description: "Perfect for big companies",
+        price: "$1000",
+        benefits: [
+            "Unlimited Access",
+            "Unlimited Bandwidth",
+            "24/7 Support",
+            "Custom Domain",
+            "Personalized Onboarding"
+        ]
+    }
+]
