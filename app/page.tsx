@@ -1,4 +1,4 @@
-import {CTA, FAQ, Features, Footer, Hero, Navbar, Plans} from "@/components";
+import {CTA, FAQ, Features, Footer, Hero, Navbar, Plans} from "@/components/shared";
 
 export default function Home() {
     return (

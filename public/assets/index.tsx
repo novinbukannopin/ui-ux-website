@@ -13,6 +13,9 @@ import Check from "../assets/check.svg"
 import BlueButton from "../assets/blue-button.svg";
 import GreenButton from "../assets/green-button.svg";
 import PinkButton from "../assets/pink-button.svg";
+import X from "../assets/X.svg";
+import Facebook from "../assets/Facebook.svg";
+import Feed from "../assets/Feed.svg";
 
 export {
     BlurArrow,
@@ -21,7 +24,7 @@ export {
     Google,
     Slack,
     Trustpilot,
-    Cnn,
+    Cnn, X, Facebook, Feed,
     Clutch,
     Feature1, Feature3, Feature2, Check, BlueButton, GreenButton, PinkButton
 }
