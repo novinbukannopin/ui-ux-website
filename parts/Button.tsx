@@ -8,7 +8,8 @@ const Button = ({className, variant, title}: ButtonProps) => {
         "w-fit px-8 py-[16px] rounded-md font-medium text-[16px] flex items-center justify-center",
         {
             "bg-[#4328EB] text-white": variant === "primary",
-            "bg-[#FFFFFF]  text-[#4328EB]": variant === "secondary"
+            "bg-[#FFFFFF]  text-[#4328EB]": variant === "secondary",
+            "bg-white text-[#EB2891]": variant === "tertiary"
         },
         className
     );

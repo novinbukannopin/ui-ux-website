@@ -38,7 +38,7 @@ export function Footer() {
                             >
                                 <AccordionItem value="item-1">
                                     <AccordionTrigger>
-                                        <p className={"text-[#36485C] text-base text-[16px] leading-[24px]"}>
+                                        <p className={"text-[#36485C] hover:no-underline text-base text-[16px] leading-[24px]"}>
                                             {item.title}
                                         </p>
                                     </AccordionTrigger>

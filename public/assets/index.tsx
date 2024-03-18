@@ -16,12 +16,13 @@ import PinkButton from "../assets/pink-button.svg";
 import X from "../assets/X.svg";
 import Facebook from "../assets/Facebook.svg";
 import Feed from "../assets/Feed.svg";
+import Gradients from "../assets/gradient.png"
 
 export {
     BlurArrow,
     Gradient,
     HeroImage,
-    Google,
+    Google, Gradients,
     Slack,
     Trustpilot,
     Cnn, X, Facebook, Feed,
