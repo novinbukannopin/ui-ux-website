@@ -7,6 +7,7 @@ export default function Home() {
             <Hero/>
             <Features/>
             <FAQ/>
+            {/* todo */}
             <Plans/>
             <CTA/>
             <Footer/>
